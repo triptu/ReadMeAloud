@@ -1,0 +1,7 @@
+Read me aloud.
+Read me too.
+Once upon a time in a land far far away, there lived a king with his queen.
+He had a beautiful princess whom he loved very much.
+Then nothing.
+This is a test file.
+This file is meant for testing the TTS.
